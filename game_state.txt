@@ -1,0 +1,6 @@
+Paddle1:5
+Paddle2:5
+BallX:10
+BallY:5
+BallDirX:-1
+BallDirY:-1
