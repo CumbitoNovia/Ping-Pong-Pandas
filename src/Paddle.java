@@ -72,19 +72,14 @@ public class Paddle  extends Rectangle
         yVelocity = yDirection;
     }
     public void move() {
-        y= y + yVelocity;
+        y=y + yVelocity;
 
     }
     public void draw(Graphics g) {
         if(id==1)
-            g.setColor(Color.blue);
+            g.setColor(new Color(0,173,239));
         else
             g.setColor(Color.yellow);
             g.fillRect(x, y, width, height);
     }
-
-
 }
-
-
- 

@@ -28,4 +28,4 @@ int player2;
     }
 }
 
-//by 𓆩ÐOMĪNAN𓆪
+//by 𓆩ÐOMĪNANT𓆪
